@@ -1,4 +1,4 @@
-#include "iists.h"
+#include "lists.h"
 
 /**
  * insert_nodeinet_at_index - inserts a new node in a linked list,
