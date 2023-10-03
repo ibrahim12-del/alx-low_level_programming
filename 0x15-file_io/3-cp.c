@@ -31,7 +31,7 @@ char *create_buffer(char *file)
  * close_file -closes file descriptors.
  * @fd: The file descriptor to be closed.
  */
-void close-file(int fd)
+void close_file(int fd)
 {
 	int c;
 
